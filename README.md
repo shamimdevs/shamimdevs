@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1 align="center">👨‍💻 Zamirul Kabir</h1>
+  <h1 align="center">👨‍💻 Shamim Hossain </h1>
   <h3 align="center">Competitive Programmer || Problem Solver || Full-Stack Developer </h3>
   <p align="center">
     <strong>MERN Stack | React.js | Next.js | TypeScript | NestJS Enthusiast </strong>
