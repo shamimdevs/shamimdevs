@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420" viewBox="0 0 420 420">
+  <style>
+    .label { font: 13px 'Segoe UI', Roboto, Arial; fill: #333 }
+    .title { font: 16px 'Segoe UI', Roboto, Arial; fill:#111; font-weight:700 }
+  </style>
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="20" y="28" class="title">Focus Allocation</text>
+
+  <!-- Donut using stroke-dasharray trick -->
+  <g transform="translate(210,210)">
+    <!-- total circumference ~ 2*pi*r; r=100 => 628.318; we'll use 628 as base -->
+    <!-- Segments: Frontend 28%, Backend 24%, DevOps 18%, Mobile 15%, Data 15% -->
+    <circle r="100" cx="0" cy="0" fill="transparent" stroke="#e6eef8" stroke-width="60" />
+    <circle r="100" cx="0" cy="0" fill="transparent" stroke="#1f77b4" stroke-width="60" stroke-dasharray="175.84 452.16" stroke-dashoffset="0" transform="rotate(-90)"/>
+    <circle r="100" cx="0" cy="0" fill="transparent" stroke="#2ca02c" stroke-width="60" stroke-dasharray="150.72 477.28" stroke-dashoffset="-175.84" transform="rotate(-90)"/>
+    <circle r="100" cx="0" cy="0" fill="transparent" stroke="#ff7f0e" stroke-width="60" stroke-dasharray="113.04 515.0" stroke-dashoffset="-326.56" transform="rotate(-90)"/>
+    <circle r="100" cx="0" cy="0" fill="transparent" stroke="#17becf" stroke-width="60" stroke-dasharray="94.2 533.8" stroke-dashoffset="-439.6" transform="rotate(-90)"/>
+    <circle r="100" cx="0" cy="0" fill="transparent" stroke="#9467bd" stroke-width="60" stroke-dasharray="94.2 533.8" stroke-dashoffset="-533.8" transform="rotate(-90)"/>
+
+    <!-- Center hole -->
+    <circle r="50" cx="0" cy="0" fill="#fff" />
+
+    <!-- Legend -->
+    <g transform="translate(150,-110)">
+      <rect width="14" height="14" fill="#1f77b4"/> <text x="22" y="12" class="label">Frontend — 28%</text>
+      <g transform="translate(0,22)"><rect width="14" height="14" fill="#2ca02c"/> <text x="22" y="12" class="label">Backend — 24%</text></g>
+      <g transform="translate(0,44)"><rect width="14" height="14" fill="#ff7f0e"/> <text x="22" y="12" class="label">DevOps — 18%</text></g>
+      <g transform="translate(0,66)"><rect width="14" height="14" fill="#17becf"/> <text x="22" y="12" class="label">Mobile — 15%</text></g>
+      <g transform="translate(0,88)"><rect width="14" height="14" fill="#9467bd"/> <text x="22" y="12" class="label">Data — 15%</text></g>
+    </g>
+  </g>
+</svg>

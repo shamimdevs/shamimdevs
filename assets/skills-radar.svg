@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="420" viewBox="0 0 540 420">
+  <style>
+    .title{ font:16px 'Segoe UI', Roboto, Arial; font-weight:700; fill:#111 }
+    .label{ font:12px 'Segoe UI', Roboto, Arial; fill:#333 }
+    .axis{ stroke:#ddd; stroke-width:1 }
+    .polygon{ fill:rgba(31,119,180,0.25); stroke:#1f77b4; stroke-width:2 }
+  </style>
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="20" y="28" class="title">Skills Radar</text>
+  <g transform="translate(220,220)">
+    <!-- radar axes -->
+    <!-- 6 axes: Frontend, Backend, DevOps, Mobile, Data, Testing -->
+    <g stroke="#eee">
+      <circle r="120" fill="none" class="axis"/>
+      <circle r="80" fill="none" class="axis"/>
+      <circle r="40" fill="none" class="axis"/>
+    </g>
+    <!-- Axis lines -->
+    <line x1="0" y1="0" x2="0" y2="-120" class="axis"/>
+    <line x1="0" y1="0" x2="104" y2="-60" class="axis"/>
+    <line x1="0" y1="0" x2="104" y2="60" class="axis"/>
+    <line x1="0" y1="0" x2="0" y2="120" class="axis"/>
+    <line x1="0" y1="0" x2="-104" y2="60" class="axis"/>
+    <line x1="0" y1="0" x2="-104" y2="-60" class="axis"/>
+
+    <!-- skill polygon values (scaled to r=120) -->
+    <!-- Values: Frontend 0.9, Backend 0.86, DevOps 0.8, Mobile 0.85, Data 0.9, Testing 0.8 -->
+    <polygon class="polygon" points="0,-108 93.36,-54.18 88.32,51.6 0,102 -93.36,54.18 -88.32,-51.6"/>
+
+    <!-- labels -->
+    <text x="0" y="-140" class="label" text-anchor="middle">Frontend</text>
+    <text x="130" y="-70" class="label">Backend</text>
+    <text x="130" y="80" class="label">DevOps</text>
+    <text x="0" y="148" class="label" text-anchor="middle">Mobile</text>
+    <text x="-150" y="80" class="label">Data</text>
+    <text x="-150" y="-60" class="label">Testing</text>
+  </g>
+  <!-- legend -->
+  <g transform="translate(380,80)">
+    <rect width="14" height="14" fill="#1f77b4"/>
+    <text x="20" y="12" class="label">Skill intensity (0–1 scale)</text>
+  </g>
+</svg>
