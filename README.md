@@ -1,16 +1,16 @@
 <p align="center">
-  <img align="center" alt="Coding" width="100%" src="https://github.com/alive1258/alive1258/blob/main/LinkedIn cover - final.png" />
+  <img align="center" alt="Coding" width="100%" src="https://github.com/shamimdevs/shamimdevs/blob/main/githubcover.jpg" />
 </p>
 
 <div align="center">
-  <h1 align="center">👨‍💻 Shamim Hossain </h1>
+  <h1 align="center">👨‍💻 Zamirul Kabir</h1>
   <h3 align="center">Competitive Programmer || Problem Solver || Full-Stack Developer </h3>
   <p align="center">
     <strong>MERN Stack | React.js | Next.js | TypeScript | NestJS Enthusiast </strong>
   </p>
   
   <p align="center">
-    <a href="[[https://zamirul-kabir-protfoilio.vercel.app/](https://zamirul-kabir-portfolio.vercel.app/)]">
+    <a href="">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:zamirulkabir999@gmail.com">
@@ -73,10 +73,10 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=alive1258&theme=tokyonight" />
+      <img src="https://streak-stats.demolab.com?user=shamimdevs&theme=tokyonight" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alive1258&theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamimdevs&theme=github_dark" />
     </td>
   </tr>
 </table>
@@ -85,10 +85,10 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alive1258&theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamimdevs&theme=github_dark" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alive1258&theme=github_dark&utcOffset=6" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamimdevs&theme=github_dark&utcOffset=6" />
     </td>
   </tr>
 </table>
@@ -97,7 +97,7 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 
 <!-- ACTIVITY GRAPH -->
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=alive1258&theme=react-dark&bg_color=20232a&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shamimdevs&theme=react-dark&bg_color=20232a&hide_border=true"
   width="100%"
 />
 
@@ -119,7 +119,7 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 > Disaster relief platform for coordinating food and supply distribution
 <br> ![MERN](https://img.shields.io/badge/MERN_Stack-red) ![RTK Query](https://img.shields.io/badge/RTK_Query-orange) ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
 
-[View All Projects →](https://zamirul-kabir-protfoilio.vercel.app/)
+[View All Projects →]()
 
 ---
 
@@ -198,10 +198,10 @@ I believe that **clarity is kindness** in the world of tech education. Every con
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zamirul-kabir-575a41279/)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZamirulKabir999)
-  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zamirul463/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alive1258)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamimdevs)
   
   ### 📧 Reach Out
   **Email:** [zamirulkabir999@gmail.com](mailto:zamirulkabir999@gmail.com)
@@ -217,13 +217,13 @@ I believe that **clarity is kindness** in the world of tech education. Every con
   ### 🎯 Quote of the Day
   > "The only way to do great work is to love what you do." - Steve Jobs
   
-  <img src="https://komarev.com/ghpvc/?username=alive1258&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shamimdevs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   
   ---
   
   <p align="center">
     <i>⭐ Proudly crafted with passion and precision</i><br>
-    <b>Zamirul Kabir</b> • Software Developer • Full-Stack Enthusiast
+    <b>Shamim Hossain</b> • Software Developer • Full-Stack Enthusiast
   </p>
   
   [![3D Skyline](https://img.shields.io/badge/My%203D%20GitHub%20Skyline-000000?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/alive1258)
