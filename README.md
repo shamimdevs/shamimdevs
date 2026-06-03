@@ -28,13 +28,13 @@
 
 <img align="right" alt="Coding" width="380" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJ4OTUzcmd3MGNrdDZsYjlkNG9yMHhiam05OTJwa3k0dnp1aGV6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Passionate **Full-Stack Developer** with **3+ years** of professional experience building scalable web and mobile applications. As **CEO of ASIAN IT INC.**, I lead engineering initiatives that bridge clean architecture with real-world business impact.
+Passionate **Full-Stack Developer** with **3+ years** of professional experience building scalable web and mobile applications. As **Founder  of Solvexbd.**, I lead engineering initiatives that bridge clean architecture with real-world business impact.
 
 I thrive on solving complex problems — from real-time systems to performance-critical enterprise apps — and believe clarity in code is as important as clarity in communication. Constantly exploring new technologies to stay at the forefront of modern web development.
 
 ### ✨ Quick Facts
 
-- 🏢 **CEO at [ASIAN IT INC.](https://www.asianitinc.com)** — leading product & engineering
+- 🏢 **Founder  at [Solvexbd.](https://www.solvexbd.com)** — leading product & engineering
 - 🔭 Currently building a **real-time tracker application** with modern TypeScript stacks
 - 🏗️ Building enterprise-grade apps with **TypeScript, React, Next.js, Node.js & NestJS**
 - 🌱 Exploring **Go**, advanced system design & microservices architecture
