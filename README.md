@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="Coding" width="100%" src="https://github.com/shamimdevs/shamimdevs/blob/main/githubcover.jpg" />
+  <img align="center" alt="Coding" width="100%" src="https://github.com/shamimdevs/shamimdevs/blob/main/assets/githubcover.jpg" />
 </p>
 
 <div align="center">
